@@ -1,3 +1,7 @@
+# TidyTuesday 2022 week 3 - chocolate
+# Viz inspiration from https://twitter.com/KittJonathan/status/1483716556127453185/photo/1
+# Sankey diagram inspiration from https://www.data-to-viz.com/graph/sankey.html
+
 # load data and library
 tuesdata <- tidytuesdayR::tt_load('2022-01-18')
 chocolate <- tuesdata$chocolate
