@@ -19,6 +19,7 @@ energy_2019 <- energy %>%
 energy$country_name <- countrycode(energy$iso3c, origin = 'iso3c', destination = 'country.name')
 
 world_map <- map_data("world")
+world_map$region<- ifelse(world_map$region == "USA", "United States",world_map$region)
 
 # final plot, using log scale to enable better contrast
 ggplot(subset(energy_2019, label %in% "Gross output of electric energy (TWH)"), aes(map_id = country_name)) +  
