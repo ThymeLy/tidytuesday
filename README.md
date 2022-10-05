@@ -11,4 +11,4 @@
 ![Gross output electric energy](2022week29/2022week29_gross_output_electric_energy_2019.jpeg)![Renewable energy output](2022week29/2022week29_renewable_energy_output_2019.jpeg)
 
 #### 2022 Week 38 Distribution of Wasterwater treatment plants in Japan
-![Distribution of Wasterwater treatment plants in Japan](2022week29/2022week38/2022week38_JP_wastewater_distr.png)
+![Distribution of Wasterwater treatment plants in Japan](2022week38/2022week38/2022week38_JP_wastewater_distr.png)
